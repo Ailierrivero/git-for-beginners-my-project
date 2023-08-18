@@ -1,4 +1,4 @@
-Welcome to MyFirstProject!
+Welcome to git for beginners MyFirstProject!
 
 Author: Ailier Ailier Rivero
 Age: 29
